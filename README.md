@@ -39,7 +39,7 @@ pip install pygame
 
 Execute o jogo
 ```bash
-python main.py
+python jogoPygameColisao.py
 ```
 
 ---
